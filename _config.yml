@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Dr. Atul Tiwari </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/dr-atul-tiwari/">LinkedIn</a> |
+  <a href="https://github.com/atultiwari">GitHub</a>
+ 
+  <br>  
+  I'm an Assistant Professor in Department of Pathology, GMC, Bhilwara.
+  I am interested in learning the scope of AI and ML in the medical field specially pathology.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
